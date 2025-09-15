@@ -13,8 +13,5 @@
 - Mostra o histórico de commits git log
 
 - Momento do Caos fazer um conflito
-<<<<<<< HEAD
+
 - Fazer atividade conflito e enviar print
-=======
-- Fazer atividade conflito e enviar print
->>>>>>> 272ca204afde352e56b7eb0e914da96b1be9cdb4
