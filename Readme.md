@@ -2,4 +2,6 @@
 
 git init = Criar Repositorio Local Vazio
 git add <algo> = Adiciona uma modificação
-gi add . = Adiciona a pasta  
+git add . = Adiciona a pasta  
+
+Não sei o que fazer, mas vamos prestar atenção
