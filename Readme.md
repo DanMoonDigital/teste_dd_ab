@@ -11,3 +11,6 @@
 - Mostra o estado do supositório: git status
 - Faz o commit das modificações git commit -m "mensagem"
 - Mostra o histórico de commits git log
+
+- Momento do Caos fazer um conflito
+- Fazer atividade conflito e enviar print
